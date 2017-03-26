@@ -1,5 +1,3 @@
-# springMybatisTest
-
 # before the project begins
 
 create table board (<br/>
